@@ -35,7 +35,17 @@ A Attenda é uma plataforma SaaS **multi-tenant** que automatiza o atendimento d
 
 ## 🖼️ Telas
 
-> 🚧 Screenshots do painel em breve.
+**O bot concluindo um agendamento de ponta a ponta no WhatsApp:**
+
+![Conversa com o bot concluindo um agendamento](telas/conversa.jpg)
+
+| Dashboard | Editor de fluxos |
+|---|---|
+| ![Dashboard com visão geral e consumo](telas/dashboard.jpg) | ![Editor de fluxos de atendimento](telas/fluxos.jpg) |
+
+| CRM (kanban) | Agendamentos |
+|---|---|
+| ![Funil de CRM em kanban](telas/crm.jpg) | ![Agenda de agendamentos confirmados](telas/agendamentos.jpg) |
 
 ## 🏗️ Como funciona
 
