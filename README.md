@@ -1,17 +1,25 @@
 # Attenda
 
-O Attenda reúne atendimento, agenda e CRM para pequenos negócios. Uma clínica pode oferecer opções de atendimento por mensagem, encaminhar um pedido de agendamento e manter o histórico disponível para a equipe.
+A Attenda é uma plataforma de atendimento, agenda e CRM para pequenos negócios. A equipe acompanha pelo painel quantos contatos chegaram, quais conversas estão ativas e quais precisam de um atendente.
 
-[Experimentar a simulação no site](https://www.attenda.tec.br/#nichos)
+## Por dentro da plataforma
 
-## Da conversa ao agendamento
+As duas capturas foram feitas no painel autenticado da Casa Aurora Móveis, loja fictícia usada nos testes da Attenda.
 
-Na demonstração de clínica, o visitante escolhe “Agendar consulta” e o sistema pede o nome para continuar. A simulação usa dados fictícios. O site também apresenta exemplos para salão, escola, imobiliária e assistência técnica.
+### Visão geral
 
-![Demonstração pública do Attenda para uma clínica fictícia. Após selecionar Agendar consulta, o visitante recebe o pedido de nome.](telas/simulacao-agendamento.png)
+O painel distingue o total de leads dos novos leads do dia. Também mostra as conversas ativas e quantas estão com um atendente.
+
+![Visão geral da Attenda com os quatro indicadores da loja fictícia](telas/visao-geral.png)
+
+### Fluxo de atendimento
+
+Nesta tela, a equipe escolhe como a conversa começa e quais informações coletar antes da transferência. No exemplo da loja de móveis, a unidade é uma das informações configuradas.
+
+![Editor de fluxo da Attenda com as opções de início do atendimento e de coleta da unidade](telas/fluxo-atendimento.png)
 
 ## Minha participação
 
 Somos três no projeto. Sou responsável por toda a programação e uso IA para gerar o código. Defino como cada funcionalidade deve funcionar, testo as entregas e peço ajustes a partir do resultado. Meus dois colegas atuam principalmente no marketing.
 
-O código da aplicação é privado. Esta página documenta o produto e uma de suas experiências públicas.
+[Site da Attenda](https://www.attenda.tec.br/)
