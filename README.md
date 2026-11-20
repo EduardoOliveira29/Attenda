@@ -1,21 +1,17 @@
 # Attenda
 
-Plataforma de atendimento pelo WhatsApp para pequenos negócios. O cliente pode consultar serviços, escolher um horário ou pedir atendimento humano. Quem atende acompanha a agenda e o andamento das conversas em um painel.
+O Attenda reúne atendimento, agenda e CRM para pequenos negócios. Uma clínica pode oferecer opções de atendimento por mensagem, encaminhar um pedido de agendamento e manter o histórico disponível para a equipe.
 
-Projeto desenvolvido em dupla com assistência de IA. Minha contribuição incluiu levantamento de requisitos, priorização de funcionalidades e validação das entregas. Este repositório reúne a apresentação pública do produto.
+[Experimentar a simulação no site](https://www.attenda.tec.br/#nichos)
 
-## Um fluxo de atendimento
+## Da conversa ao agendamento
 
-O editor permite definir as opções de cada menu e o próximo passo da conversa. No exemplo abaixo, o cliente pode tirar dúvidas, atualizar dados, falar com um atendente ou agendar um serviço.
+Na demonstração de clínica, o visitante escolhe “Agendar consulta” e o sistema pede o nome para continuar. A simulação usa dados fictícios. O site também apresenta exemplos para salão, escola, imobiliária e assistência técnica.
 
-![Editor de fluxos com quatro opções de atendimento](telas/fluxos.jpg)
+![Demonstração pública do Attenda para uma clínica fictícia. Após selecionar Agendar consulta, o visitante recebe o pedido de nome.](telas/simulacao-agendamento.png)
 
-## Como o produto organiza os dados
+## Minha participação
 
-- **Agenda.** Serviços, profissionais e disponibilidade determinam os horários oferecidos ao cliente.
-- **Atendimento.** O histórico da conversa dá contexto a quem assume um atendimento manual.
-- **CRM.** O painel organiza os contatos por etapa de negociação, com tarefas e notas.
+Somos três no projeto. Sou responsável por toda a programação e uso IA para gerar o código. Defino como cada funcionalidade deve funcionar, testo as entregas e peço ajustes a partir do resultado. Meus dois colegas atuam principalmente no marketing.
 
-A aplicação usa TypeScript e Next.js. Os registros de atendimento e agendamento ficam em PostgreSQL (Supabase), com separação por conta.
-
-[Site do Attenda](https://attenda.tec.br)
+O código da aplicação é privado. Esta página documenta o produto e uma de suas experiências públicas.
